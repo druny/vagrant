@@ -3,7 +3,7 @@ layout: "about"
 sidebar_current: "about-main"
 page_title: "About"
 description: |-
-  Vagrant is a tool for building complete development environments. With an
+  Vagrant is a tool for building complete development environments. With an test
   easy-to-use workflow and focus on automation, Vagrant lowers development
   environment setup time, increases development/production parity, and makes
   the "works on my machine" excuse a relic of the past.
